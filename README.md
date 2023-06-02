@@ -1,2 +1,3 @@
 # DTT Proefopdracht
- De proefopdracht voor DTT 
+
+ Dit is de proefopdracht voor mijn DTT stage
